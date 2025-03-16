@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 First I Downloaded the osTicket Installation files, then I opened the Zip folder and extracted the installation files to the Desktop of the VM.
 </p>
 
-https://i.imgur.com/idtky2j.png
+[https://i.imgur.com/idtky2j.png](https://imgur.com/a/g79gM8J)
 
 <p>
 Next I needed to Install / Enable IIS (Internet Information Services) in windows with CGI, to do so i opened the control panel, on the side panel i selected "Turn Windows features on or off", in the popup window i selected Internet Information Services to turn it on and also expanded it to show the option for world wide web services, after expanding WWW services i was able to turn on CGI 
