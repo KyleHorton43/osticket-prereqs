@@ -31,11 +31,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 First I Downloaded the osTicket Installation files, then I opened the Zip folder and extracted the installation files to the Desktop of the VM.
 </p>
 
-[https://i.imgur.com/idtky2j.png](https://imgur.com/a/g79gM8J)
 <p>
 <img src="https://i.imgur.com/idtky2j.png" height="80%" width="80%" alt=""/>
 </p>
-![osticket-install-files](https://github.com/user-attachments/assets/22c73ef2-89bf-4373-9e99-8c86c9a2cd7d)
+
 
 
 <p>
