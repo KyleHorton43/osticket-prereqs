@@ -35,6 +35,8 @@ First I Downloaded the osTicket Installation files, then I opened the Zip folder
 <p>
 <img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/idtky2j.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+![osticket-install-files](https://github.com/user-attachments/assets/22c73ef2-89bf-4373-9e99-8c86c9a2cd7d)
+
 
 <p>
 Next I needed to Install / Enable IIS (Internet Information Services) in windows with CGI, to do so i opened the control panel, on the side panel i selected "Turn Windows features on or off", in the popup window i selected Internet Information Services to turn it on and also expanded it to show the option for world wide web services, after expanding WWW services i was able to turn on CGI 
