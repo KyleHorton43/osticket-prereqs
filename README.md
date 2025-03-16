@@ -18,11 +18,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1. Azure Virtual Machine – Used to host the OsTicket system.
+
+2. osTicket Installation Files – Necessary files for setting up the ticketing system.
+
+3. HeidiSQL – A database management tool for MySQL to configure and manage the database.
 
 <h2>Installation Steps</h2>
 
