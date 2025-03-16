@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 First I Downloaded the osTicket Installation files, then I opened the Zip folder and extracted the installation files to the Desktop of the VM.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/idtky2j.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
